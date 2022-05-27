@@ -1,4 +1,4 @@
-# Oh, hello world!
+Hello world
 
 ## Introduction
 
@@ -14,7 +14,7 @@ illa. Victima apicemque incensaque sinit pennas, a cum ultimus ducere coeperat.
 - Meum potenti ipse
 - Transit an iura aperire ignis
 
-## No installation needed!
+## Installation?
 
 Leves niveo queri natura; in votis pulsisque sorori porrexerat spicula et est
 fortibus? Euros arbuteos; ipse nomen inimica bracchia sepulti vitamque patrii.
