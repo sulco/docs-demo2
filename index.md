@@ -1,5 +1,3 @@
-Hello world
-
 ## Introduction
 
 Lorem markdownum sternitur annos lacrimasque obstet tale, cara. Dianae tantum
