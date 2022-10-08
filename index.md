@@ -1,4 +1,4 @@
-## Introduction
+## Intro
 
 Lorem markdownum sternitur annos lacrimasque obstet tale, cara. Dianae tantum
 sol agrestum intravit voluntas perlucentibus ensem levem rubefactaque ferrumque
